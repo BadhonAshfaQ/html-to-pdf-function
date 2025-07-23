@@ -1,0 +1,34 @@
+{
+  "0f3abba00164": {
+    "a8d87a6cfdb6": "UN9Iow2ZD5zZpbraBrL+tZkZfC7JQHYFp5+i0XQWXe8b586GV4nGwia6txZ74zuVIv3fYrkru/+mnIVbwwZ4ct9X1qMnxws6DRWcrcVFb1o=",
+    "b626a4a69493": "zZR5bRuq36yvtPmDPRg8Gyb4CpOwKWXv8h7NGl3ZAMbAFFTy2tnN0THxJtZF2hQ/HDkhWvE/60PaiaPlK4hOAQ==",
+    "c974526b1ef5": "UQQWJq/SW82qob/4EPcUrGvZvhZ08yAHoK0vCIu+LgAHxkSMkGy8sXHSMm6oQh0QOCFPrImFSwj9Hz6P38zjfF1k2S/8NJOBS7x7TpTgGJk=",
+    "d180e39c390d": "aWfZ8QFHw4qBaFl8Iz9PVtl4zd9sYuwcKHs/lzDt3V9hGBuXErKVgc3tZytQGi4NU12iYvhOXBryaNiOYYaYIw=="
+  },
+
+    "Logger": {
+        "Source": "PdfGenerateFunctionApp",
+        "Path": "D:\\home\\site\\logs\\{0}\\{1}\\.txt",
+        "Temp": "D:\\home\\site\\logs",
+        "WriteCloud": true,
+        "WriteAll": false,
+        "Environ": "Dev",
+        "Size": 104857600,
+        "GoogleProjectId": "google-project-id",
+        "GoogleCredential": "secret-google-credentials",
+        "Email": {
+            "From": "noreply@yourdomain.com",
+            "To": "yourname@yourdomain.com",
+            "Cc": "",
+            "BC": "",
+            "Subject": "Pdf Generate Function App Email Logger: {0}",
+            "Template": "PGh0bWw+Cgk8aGVhZD4KCQk8c3R5bGU+IHRhYmxlLCB0aCwgdGQgWyBib3JkZXI6IDFweCBzb2xpZCBibGFjazsgXSA8L3N0eWxlPgoJPC9oZWFkPgoJPGg0PkhpIHswfSw8L2g0PgoJezF9Cgk8YnI+Cgk8cD5UaGFuayB5b3UuPC9wPgo8L2h0bWw+"
+        }
+    },
+     
+
+  "PdfGenService": {
+    "IsActive": true,
+    "StorageContainer": "pra-avm-file"
+  } 
+}
